@@ -6,6 +6,6 @@ defmodule MultiRepo.Api do
   resources do
     resource MultiRepo.Api.Resource1
     resource MultiRepo.Api.Resource2
-    # resource MultiRepo.Api.Resource3
+    resource MultiRepo.Api.Resource3
   end
 end
